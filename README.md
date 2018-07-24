@@ -5,7 +5,7 @@ MACBook的相关使用说明，疑难杂症
 ### MAC Software download
 
 * First
-* 先要打中文字呀-搜狗输入法： 
+* [先要打中文字呀-搜狗输入法](https://pinyin.sogou.com/mac/)
 
 
 #### 技术
