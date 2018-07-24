@@ -8,7 +8,9 @@ MACBook的相关使用说明，疑难杂症
 * [先要打中文字呀-搜狗输入法](https://pinyin.sogou.com/mac/)
 
 
-#### 技术
+#### 技术软件
+
+* [Google浏览器](https://chrome.en.softonic.com/mac)
 * [Git安装](https://git-scm.com/download/mac)
 * [node，npm安装](https://nodejs.org/dist/v8.11.3/)
 * [开源编辑器-VSCode](https://code.visualstudio.com/)
