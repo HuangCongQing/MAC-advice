@@ -9,10 +9,10 @@ MACBook的相关使用说明，疑难杂症
 
 
 #### 技术
-* Git安装
-* node，npm安装
-* 编辑器-VSCode
-* md笔记：Boostnode
+* [Git安装](https://git-scm.com/download/mac)
+* [node，npm安装](https://nodejs.org/dist/v8.11.3/)
+* [开源编辑器-VSCode](https://code.visualstudio.com/)
+* [开源md笔记：Boostnode](https://boostnote.io/)
 * 
 
 
