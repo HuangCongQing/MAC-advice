@@ -17,10 +17,14 @@ MACBook的相关使用说明，疑难杂症
 * [node，npm安装](https://nodejs.org/dist/v8.11.3/)
 * [开源编辑器-VSCode](https://code.visualstudio.com/)
 * [开源md笔记：Boostnode](https://boostnote.io/)
-* Alfred
+* Alfred-快捷搜索
 * Charles
     * 下载完之后记得下载SSL证书，如果有服务器的瞬时 Diffie-Hellman 公共密钥过弱的问题，可以使用Chrome Canary
-* Dash
+    * [Charles使用](https://www.jianshu.com/p/fb2bdde5b498)
+* Dash-文档管理软件
+  *  [*mac*软件使用之*Dash* - 简书](https://www.baidu.com/link?url=fuGgih89YEnl-TLh9fbgxgQeo2gYe6glS87cCmyAOQ6t7T-LVnLmyr_yBInzIW1b&wd=&eqid=9213c64600047795000000045b5826b6)
+  *  [*mac* Alfred+*Dash*快速查询API文档 - CSDN博客](http://www.baidu.com/link?url=CE-i64nqA4kRC8ON_dTUdq0FJH67qsK2OKPgFOBFpGAgT38CJFjHdB4whpP4UZy8Ohhw_YFJhXniVYul9NJ-v8ucuPKmf9YZrd18h1qd5e3)
+
 * Homebrew
     * 方便的下载工具 `$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * SSH Key
