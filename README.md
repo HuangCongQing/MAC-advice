@@ -19,8 +19,24 @@ MACBook的相关使用说明，疑难杂症
 * [开源md笔记：Boostnode](https://boostnote.io/)
 * 
 
+### Skills
 
+* [在 Mac OS X 下完全不用鼠标是什么体验？](https://www.zhihu.com/question/30244059) 
+* [OS X：键盘快捷键](https://link.zhihu.com/?target=https%3A//support.apple.com/zh-cn/HT201236)
+* [Mac 基础知识：Multi-Touch 手势](https://link.zhihu.com/?target=https%3A//support.apple.com/zh-cn/HT4721)
+* [cVim - Chrome Web Store](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh%3Fhl%3Den)
+* [flipxfx/sVim · GitHub](https://link.zhihu.com/?target=https%3A//github.com/flipxfx/sVim)
+*  [OS X 可以全键盘操作吗，哪些操作不可以用键盘完成？ - MacBook](http://www.zhihu.com/question/24317772)
 
+###  Tools
+
+ * BetterTouchTool
+ [BetterTouchTool 1.82 Mac破解版| 史蒂芬周的博客](http://www.sdifen.com/bettertouchtool186.html)
+[BetterTouchTool | 程序员的自我修养 - GitBook](https://leohxj.gitbooks.io/a-programmer-prepares/software/mac/softwares/bettertouchtool.html)
+
+*  Afreds[快捷搜索]]
+ [Alfred 3 Mac破解版| 史蒂芬周的博客](http://www.sdifen.com/alfred3.html)
+ [它已不仅仅是一款Mac 效率启动器：Alfred 3.0 新版详解- 少数派](https://sspai.com/post/34468)
 
 ### License
 
