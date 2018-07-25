@@ -19,6 +19,7 @@ MACBook的相关使用说明，疑难杂症
 * [开源md笔记：Boostnode](https://boostnote.io/)
 * Alfred-快捷搜索
 * Charles
+    * charles下载传送门：[点击下载](https://www.charlesproxy.com/download/)
     * 下载完之后记得下载SSL证书，如果有服务器的瞬时 Diffie-Hellman 公共密钥过弱的问题，可以使用Chrome Canary
     * [Charles使用](https://www.jianshu.com/p/fb2bdde5b498)
 * Dash-文档管理软件
