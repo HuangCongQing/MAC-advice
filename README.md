@@ -28,6 +28,7 @@ MACBook的相关使用说明，疑难杂症
 
 * Homebrew
     * 方便的下载工具 `$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+    *  [*Homebrew* - 安装与使用 - CSDN博客](https://www.baidu.com/link?url=zwdE8T-TwZT43-jZK9D3Y5PCJzS5W4glNsg3Iaierxv3hL69C0fzeVPEpv5GmD0Kac7fqtlaVcy07hOh4nP2NHiHI2jFBCCpVMvAGy7ea2a&wd=&eqid=ecb8a8ee00000716000000045b582841)
 * SSH Key
 
 ```
