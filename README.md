@@ -8,6 +8,10 @@ MACBook的相关使用说明，疑难杂症
 * [先要打中文字呀-搜狗输入法](https://pinyin.sogou.com/mac/)
 
 
+* 双指双击，放大缩小浏览器界面。
+* command + R 浏览器刷新
+* Command-Shift-Z 重做，也就是撤销的逆向操作　
+
 #### 技术软件
 
 * Google
