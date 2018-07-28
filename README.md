@@ -12,12 +12,13 @@ MACBook的相关使用说明，疑难杂症
 * command + R 浏览器刷新
 * Command-Shift-Z 重做，也就是撤销的逆向操作　
 * shift+cmmand+. 显示隐藏文件
+* control+command + D 鼠标悬停翻译 
 
 * MAC复制拷贝和替身
     * 复制是在同文件下制作一个副本（就是win中的ctrl+c和ctrl+v的组合）
     * 拷贝就是win中的复制，可以在另外一个文件夹下粘贴
     * 替身就是制作快捷方式
-    
+
 #### 技术软件
 
 * Google
@@ -45,6 +46,10 @@ MACBook的相关使用说明，疑难杂症
 $ ssh-keygen 
 $ cat ~/.ssh/id_rsa.pub
 ```
+
+
+
+* [*Mac*技巧之苹果电脑 *Mac* OS X 系统自带的支持屏幕取词的多语言*翻译*..](https://www.baidu.com/link?url=EOfIKL2QVYEPefIywr1pJB_LViO_h6DUK5UKqv9_u-ySq1JRcDtB8XiOmse58LpAajF9Ltf8nTjM8q5MYbb8A2lDLckl292epPatPg7Zq0pzFieXqqpXxgpioUHc0hXY&wd=&eqid=f43d07d500031ee3000000045b5c4672)
 
 ### Skills
 
