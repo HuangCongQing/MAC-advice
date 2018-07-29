@@ -1,6 +1,7 @@
 # MAC-advice
 MACBook的相关使用说明，疑难杂症
 
+Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
 
 ### MAC Software download
 
@@ -53,6 +54,7 @@ $ cat ~/.ssh/id_rsa.pub
 
 ### Skills
 
+* [*苹果*笔记本电脑的*f1*至*f1*2键盘问题。怎么改设置不按FN就..._百度知道](https://www.baidu.com/link?url=kQicDM-rEN-KaTmJ-atJ6VLU0PX_tU2kVPMDM5sRo5JDLURseaZzVAblYRpaF58IDFbOrhE9p4olo2pc-C6X1_&wd=&eqid=a754648e00067133000000045b5c675e)
 * [在 Mac OS X 下完全不用鼠标是什么体验？](https://www.zhihu.com/question/30244059) 
 * [OS X：键盘快捷键](https://link.zhihu.com/?target=https%3A//support.apple.com/zh-cn/HT201236)
 * [Mac 基础知识：Multi-Touch 手势](https://link.zhihu.com/?target=https%3A//support.apple.com/zh-cn/HT4721)
