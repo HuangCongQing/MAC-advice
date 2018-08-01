@@ -20,6 +20,10 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . 
     * 拷贝就是win中的复制，可以在另外一个文件夹下粘贴
     * 替身就是制作快捷方式
 
+#### 办公
+ * [*Office* *2016* *for* *mac* 安装、*破解* - 简书](https://www.baidu.com/link?url=i4RFiy6VZL86krEczrw84sGv1i3vI1szamSGoHHXHNx25UfoTFq2iks2n8EVd4JQ&wd=&eqid=debb2ead00055355000000045b613456)
+
+
 #### 技术软件
 
 * Google
