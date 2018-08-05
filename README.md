@@ -19,10 +19,14 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . 
     * 复制是在同文件下制作一个副本（就是win中的ctrl+c和ctrl+v的组合）
     * 拷贝就是win中的复制，可以在另外一个文件夹下粘贴
     * 替身就是制作快捷方式
+#### 交流
+[*QQ* *Mac*版-匠心之韵·清新聊人](https://www.baidu.com/link?url=rHnsMru2J4IXSkguiL1_Qflq3nFykTdXXwv988QEUetclWTy226Ea7FX78PH7dID&wd=&eqid=8a3ed6180002fb80000000045b55b907)
+![](https://upload-images.jianshu.io/upload_images/4340772-d8b53b62e920682c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 #### 办公
- * [*Office* *2016* *for* *mac* 安装、*破解* - 简书](https://www.baidu.com/link?url=i4RFiy6VZL86krEczrw84sGv1i3vI1szamSGoHHXHNx25UfoTFq2iks2n8EVd4JQ&wd=&eqid=debb2ead00055355000000045b613456)
-
+* [*Office* *2016* *for* *mac* 安装、*破解* - 简书](https://www.baidu.com/link?url=i4RFiy6VZL86krEczrw84sGv1i3vI1szamSGoHHXHNx25UfoTFq2iks2n8EVd4JQ&wd=&eqid=debb2ead00055355000000045b613456)
+* Jing--很好的截屏工具
 
 #### 技术软件
 
