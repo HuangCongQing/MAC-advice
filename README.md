@@ -8,7 +8,7 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . 
 * First
 * [先要打中文字呀-搜狗输入法](https://pinyin.sogou.com/mac/)
 
-
+##### 快捷键
 * 双指双击，放大缩小浏览器界面。
 * command + R 浏览器刷新
 * Command-Shift-Z 重做，也就是撤销的逆向操作　
@@ -69,7 +69,7 @@ $ cat ~/.ssh/id_rsa.pub
 * [cVim - Chrome Web Store](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh%3Fhl%3Den)
 * [flipxfx/sVim · GitHub](https://link.zhihu.com/?target=https%3A//github.com/flipxfx/sVim)
 *  [OS X 可以全键盘操作吗，哪些操作不可以用键盘完成？ - MacBook](http://www.zhihu.com/question/24317772)
-
+*  [*Mac*能设置*开机密码*吗？如何设置？_](https://www.baidu.com/link?url=8GX51L699K3fQp36HBz8YwCxDNpyCtfPFMijD4lPcn6hWfH0lN3EJ4vzizrrGYc94vyRFCVjSZ6kuy0ts9A8ZAekmSDp6DcWuAkT5RcHaAW&wd=&eqid=f9a76d130001d456000000045b56107b)
 ###  Tools
 
  * BetterTouchTool
