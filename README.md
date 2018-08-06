@@ -27,7 +27,7 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . 
 #### 办公
 * [*Office* *2016* *for* *mac* 安装、*破解* - 简书](https://www.baidu.com/link?url=i4RFiy6VZL86krEczrw84sGv1i3vI1szamSGoHHXHNx25UfoTFq2iks2n8EVd4JQ&wd=&eqid=debb2ead00055355000000045b613456)
 * Jing--很好的截屏工具
-* PS for MAC破解版
+* [PS for MAC破解版：](https://www.macx.cn/thread-2145594-1-1.html)
 
 * [**Mac必备软件推荐**](http://xclient.info/a/883e9c9a-682e-741c-c1b3-1094ce789f9d.html "Mac必备软件推荐")
 
