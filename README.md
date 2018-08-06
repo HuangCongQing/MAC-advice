@@ -55,6 +55,7 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . 
 $ ssh-keygen 
 $ cat ~/.ssh/id_rsa.pub
 ```
+* [github发布分支工具 Sourcetree | Free Git GUI for Mac and Windows](https://www.sourcetreeapp.com/)
 
 
 
