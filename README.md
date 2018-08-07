@@ -3,7 +3,7 @@ MACBook的相关使用说明，疑难杂症
 
 Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
 
-### MAC Software download
+### [MAC Software download](http://xclient.info/?t=6aaaaefb3343e36bd3e93dc357846e131708b315)
 
 * First
 * [先要打中文字呀-搜狗输入法](https://pinyin.sogou.com/mac/)
@@ -30,7 +30,7 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . 
 * [PS for MAC破解版：](https://www.macx.cn/thread-2145594-1-1.html)
 
 * [**Mac必备软件推荐**](http://xclient.info/a/883e9c9a-682e-741c-c1b3-1094ce789f9d.html "Mac必备软件推荐")
-
+* [OmniPlan 3.9.3 专业版 最NB的项目管理流程软件](http://xclient.info/s/omni-plan.html?t=6aaaaefb3343e36bd3e93dc357846e131708b315)
 
 #### 技术软件
 
