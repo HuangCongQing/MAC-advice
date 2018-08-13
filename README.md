@@ -14,7 +14,7 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . 
 * Command-Shift-Z 重做，也就是撤销的逆向操作　
 * shift+cmmand+. 显示隐藏文件
 * control+command + D 鼠标悬停翻译 
-* 拇指左滑，三指右滑动 回到桌面
+* 拇指左滑，三指右滑 回到桌面
 
 * MAC复制拷贝和替身
     * 复制是在同文件下制作一个副本（就是win中的ctrl+c和ctrl+v的组合）
