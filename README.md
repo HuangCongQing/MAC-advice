@@ -40,6 +40,7 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . 
     * [翻墙-Google浏览器](https://chrome.en.softonic.com/mac)
     * [no翻墙-Google浏览器](https://pan.baidu.com/s/1nu7yd1f?fid=848606660551080&errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=)
 * [Mac OS 终端利器 iTerm2](https://www.iterm2.com/downloads.html)
+    * https://blog.csdn.net/thatway_wp/article/details/79442177
 * [Git安装](https://git-scm.com/download/mac)
 * [node，npm安装](https://nodejs.org/dist/v8.11.3/)
 * [开源编辑器-VSCode](https://code.visualstudio.com/)
