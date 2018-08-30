@@ -89,6 +89,10 @@ $ cat ~/.ssh/id_rsa.pub
  [Alfred 3 Mac破解版| 史蒂芬周的博客](http://www.sdifen.com/alfred3.html)
  [它已不仅仅是一款Mac 效率启动器：Alfred 3.0 新版详解- 少数派](https://sspai.com/post/34468)
 
+* 
+完美卸载程序：Dr. Cleaner官方下载链接：[‎Mac App Store 上的“Dr. Cleaner：清理系统磁盘和内存”](https://link.zhihu.com/?target=https%3A//itunes.apple.com/cn/app/id921458519%3Fmt%3D12%26at%3D1001ldFh%26ct%3DpZhYJ171115AC)
+
+
 ### License
 
 Copyright (c) [ChungKing](https://github.com/HuangCongQing). All rights reserved.
