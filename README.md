@@ -23,7 +23,7 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . 
     * 替身就是制作快捷方式
 #### 交流
 [*QQ* *Mac*版-匠心之韵·清新聊人](https://www.baidu.com/link?url=rHnsMru2J4IXSkguiL1_Qflq3nFykTdXXwv988QEUetclWTy226Ea7FX78PH7dID&wd=&eqid=8a3ed6180002fb80000000045b55b907)
-![](https://upload-images.jianshu.io/upload_images/4340772-d8b53b62e920682c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 #### 办公
