@@ -4,7 +4,7 @@ MACBook的相关使用说明，疑难杂症
 Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
 
 ### [MAC Software download](http://xclient.info/?t=6aaaaefb3343e36bd3e93dc357846e131708b315)
-
+* 苹果电脑软件下载：http://xclient.info
 * First
 * [先要打中文字呀-搜狗输入法](https://pinyin.sogou.com/mac/)
 
